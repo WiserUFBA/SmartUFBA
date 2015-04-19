@@ -1,0 +1,3 @@
+[submodule "Software/Drivers/DriverMQTT"]
+	path = Software/Drivers/DriverMQTT
+	url = https://github.com/WiserUFBA/DriverMQTT.git
