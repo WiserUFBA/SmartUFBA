@@ -1,3 +1,21 @@
 [submodule "Software/Drivers/DriverMQTT"]
 	path = Software/Drivers/DriverMQTT
 	url = https://github.com/WiserUFBA/DriverMQTT.git
+[submodule "Software/Aplicacoes/dashboard-app"]
+	path = Software/Aplicacoes/dashboard-app
+	url = https://github.com/WiserUFBA/dashboard-app.git
+[submodule "Software/Bibliotecas/TATUDevice"]
+	path = Software/Bibliotecas/TATUDevice
+	url = https://github.com/WiserUFBA/TATUDevice.git
+[submodule "Software/Servicos/wiser-services"]
+	path = Software/Servicos/wiser-services
+	url = https://github.com/WiserUFBA/wiser-services.git
+[submodule "Software/Aplicacoes/TemplateWIKI"]
+	path = Software/Aplicacoes/TemplateWIKI
+	url = https://github.com/WiserUFBA/TemplateWIKI.git
+[submodule "Software/Bibliotecas/TATUModules"]
+	path = Software/Bibliotecas/TATUModules
+	url = https://github.com/WiserUFBA/TATUModules.git
+[submodule "Software/Servicos/PresenceSensorXbee"]
+	path = Software/Servicos/PresenceSensorXbee
+	url = https://github.com/WiserUFBA/PresenceSensorXbee.git
